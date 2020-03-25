@@ -1,0 +1,23 @@
+{
+  "name": "getrequest-jacob-isaac",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thinkful-ei-narwhal/get-requests-jacob-isaac.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thinkful-ei-narwhal/get-requests-jacob-isaac/issues"
+  },
+  "homepage": "https://github.com/thinkful-ei-narwhal/get-requests-jacob-isaac#readme",
+  "dependencies": {
+    "jquery": "^3.4.1"
+  }
+}
